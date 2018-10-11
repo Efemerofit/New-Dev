@@ -45,26 +45,26 @@ Plus ça allait et plus je voulais pousser la chose. Sur Discord, on peut utilis
 Je n'ai pas vraiment de sites préférés, je dirais plus des sites qui me sont utile.
 Pour tout ce qui est jeu video :
 
--Ranked 1v1 Brawhalla (lien du site) me permettant de regarder mon classement et aussi de n'importe quel joueur.
+- Ranked 1v1 Brawhalla (lien du site) me permettant de regarder mon classement et aussi de n'importe quel joueur.
 
--Challonge (lien du site) me permmait de créer rapidement un tournois ou il suffit aux joueuers de s'inscrire sur le lien que je partage.
+- Challonge (lien du site) me permmait de créer rapidement un tournois ou il suffit aux joueuers de s'inscrire sur le lien que je partage.
 
--BrawlDB pour me renseigner sur les joueurs de mon clan ou d'autres clans
+- BrawlDB pour me renseigner sur les joueurs de mon clan ou d'autres clans
 
 Autre que les jeux :
 
--Yhaoo, laposte mail ou Gmail pour voir mes mails
+- Yhaoo, laposte mail ou Gmail pour voir mes mails
 
--Google traduction si j'ai des soucis avec du vocabulaire
+- Google traduction si j'ai des soucis avec du vocabulaire
 
--Google image pour rechercher des images nécessaire aux montages
+- Google image pour rechercher des images nécessaire aux montages
 
 -Canva pour toutes mes créations de design
 #Liens vers mes différents profils 
 
-Facebook :
-Discord :
-Steam :
+*Facebook :
+*Discord :
+*Steam :
 
 
 # Merci d'avoir prit le temps de lire ma 1ère page sur GidHub ! J'espère que ça vous a plus :)
