@@ -59,7 +59,7 @@ Autre que les jeux :
 
 - Google image pour rechercher des images nécessaire aux montages
 
--Canva pour toutes mes créations de design
+- Canva pour toutes mes créations de design
 # Liens vers mes différents profils 
 
 - Facebook :
