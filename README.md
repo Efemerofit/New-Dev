@@ -1,22 +1,22 @@
 # Bienvenue sur ma page GidHub !
-### Ma présentation
+# Ma présentation
 
-# Qui suis-je ?
+### Qui suis-je ?
 
 Je m'appel Paul Renelier, j'ai 18 ans, je suis curieux, investi dans ce que je fais, j'ai envie d'apprendre et de me perfectionner dans les domaines qui me plaisent.
-# Mon parcourt
+### Mon parcourt
 
 J'ai fini mon bac STI2D (Sience et Technique de l'Industrie et du Devoloppement Durable) option ITEC (Innovation Technologique et Eco-Conception) en 2016. Je l'ai obtenu avec la mention assez bien (13.06 de moyenne).
 A la suite de ce bac, j'ai poursuivit sur un BTS CIM (Création Industrialisation en Microtechnique). Je n'ai fait que la première année et décidais de ne pas poursuivre car ça ne me plaisais pas.
 C'est la que je me suis posé beaucoup de questions sur mon avenir et que j'ai commencé à entrevoir la possibilité de faire une formation au CEFIM.
-# Mes expériences
+### Mes expériences
 
 Actuellement, je suis en Service Civique au Pôle Emploi de Loches pour une mission de 8 mois. 
-# Mes diplômes
+### Mes diplômes
 
 J'ai en ma possition un Bac STI2D ITEC mention assez bien.
 
-### Mes centres d'intérêts 
+# Mes centres d'intérêts 
 You can use the [editor on GitHub](https://github.com/Efemerofit/New-Dev/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
