@@ -60,11 +60,11 @@ Autre que les jeux :
 - Google image pour rechercher des images nécessaire aux montages
 
 -Canva pour toutes mes créations de design
-#Liens vers mes différents profils 
+# Liens vers mes différents profils 
 
-*Facebook :
-*Discord :
-*Steam :
+- Facebook :
+- Discord :
+- Steam :
 
 
 # Merci d'avoir prit le temps de lire ma 1ère page sur GidHub ! J'espère que ça vous a plus :)
