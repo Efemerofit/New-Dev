@@ -60,4 +60,4 @@ Discord :
 Steam :
 
 
-#Merci d'avoir prit le temps de lire ma 1ère page sur GidHub ! J'espère que ça vous a plus :)
+# Merci d'avoir prit le temps de lire ma 1ère page sur GidHub ! J'espère que ça vous a plus :)
